@@ -1,0 +1,2 @@
+model_checkpoint_path: "my_model_leaky_relu2_final.ckpt"
+all_model_checkpoint_paths: "my_model_leaky_relu2_final.ckpt"

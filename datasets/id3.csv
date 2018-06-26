@@ -1,0 +1,8 @@
+Motor,Wheels,Doors,Size,Efficiency
+no,two,none,small,good
+no,three,none,small,bad
+yes,two,none,small,good
+yes,four,two,small,bad
+yes,four,three,medium,good
+yes,four,four,medium,good
+yes,four,four,large,bad
